@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/insta/static/js/main.12ddcf7b.js",
+    "static/js/453.39513f40.chunk.js": "/insta/static/js/453.39513f40.chunk.js",
+    "static/media/citynights.webp": "/insta/static/media/citynights.427272e7e0109211ed75.webp",
+    "static/media/burger.webp": "/insta/static/media/burger.5ae2ddcfc03142c7c82a.webp",
+    "static/media/shrimp.webp": "/insta/static/media/shrimp.f8dfc649339a7ecd9710.webp",
+    "static/media/starbaks.webp": "/insta/static/media/starbaks.bc46641d483486f77098.webp",
+    "static/media/adidas.webp": "/insta/static/media/adidas.b004a188499bdf1491cd.webp",
+    "static/media/steak.webp": "/insta/static/media/steak.f4c1368d7d61e68bbb5f.webp",
+    "static/media/icon-sprite.svg": "/insta/static/media/icon-sprite.09e0750828cdf5b63db5e025af5c4752.svg",
+    "static/media/person_photo.webp": "/insta/static/media/person_photo.1647a7f059ba4d4f528a.webp",
+    "index.html": "/insta/index.html",
+    "main.12ddcf7b.js.map": "/insta/static/js/main.12ddcf7b.js.map",
+    "453.39513f40.chunk.js.map": "/insta/static/js/453.39513f40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12ddcf7b.js"
+  ]
+}
